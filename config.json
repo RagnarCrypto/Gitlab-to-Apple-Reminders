@@ -1,0 +1,7 @@
+{
+  "gitlab_token": "your_gitlab_personal_access_token",
+  "gitlab_url": "https://gitlab.com",
+  "gitlab_username": "your_gitlab_username",
+  "reminder_list": "GitLab Issues",
+  "poll_interval_minutes": 60
+}
